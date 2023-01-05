@@ -1,0 +1,12 @@
+body
+{
+    width: 100%;
+    direction: ltr;
+    color: rgb(183, 228, 240);
+    background-color: rgb(31, 31, 31);
+}
+.d-1
+{
+    margin-top: 10%;
+}
+
